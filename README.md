@@ -2,7 +2,7 @@
 
 - I have made a simple Xylophone Application with Flutter widgets and Dart function.
 
-<img src="https://user-images.githubusercontent.com/122957164/213092263-15013e71-1999-431e-a730-009cdc6c2ee3.png" width="170" height="270">
+<img src="https://user-images.githubusercontent.com/122957164/213092263-15013e71-1999-431e-a730-009cdc6c2ee3.png" width="170" height="300">
 
 
 ## Getting Started
