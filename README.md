@@ -8,6 +8,8 @@
 
 This project is a starting point for a Flutter application.
 
+<img src="https://user-images.githubusercontent.com/122957164/213092263-15013e71-1999-431e-a730-009cdc6c2ee3.png" width="200" height="200">
+
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
@@ -18,10 +20,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
-
-![asdasd](https://user-images.githubusercontent.com/122957164/213092263-15013e71-1999-431e-a730-009cdc6c2ee3.png =250x250)
-
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://user-images.githubusercontent.com/122957164/213092263-15013e71-1999-431e-a730-009cdc6c2ee3.png " width="200" height="400" />
 
 <img src="https://user-images.githubusercontent.com/122957164/213092263-15013e71-1999-431e-a730-009cdc6c2ee3.png" width="100" height="100">
