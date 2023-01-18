@@ -1,6 +1,6 @@
-# xylophone
+# Xylophone
 
-A new Flutter project.
+- I have made a simple Xylophone Application with Flutter widgets and Dart function.
 
 ## Getting Started
 
