@@ -2,6 +2,8 @@
 
 - I have made a simple Xylophone Application with Flutter widgets and Dart function.
 
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png](https://user-images.githubusercontent.com/122957164/213091431-46cbad77-3d7e-413f-b2c6-d4c5fdc3baf5.png)" width="200" height="400" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
