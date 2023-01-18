@@ -8,7 +8,7 @@
 
 This project is a starting point for a Flutter application.
 
-<img src="https://user-images.githubusercontent.com/122957164/213092263-15013e71-1999-431e-a730-009cdc6c2ee3.png" width="200" height="200">
+<img src="https://user-images.githubusercontent.com/122957164/213092263-15013e71-1999-431e-a730-009cdc6c2ee3.png" width="100" height="300">
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 
 
 
-<img src="https://user-images.githubusercontent.com/122957164/213092263-15013e71-1999-431e-a730-009cdc6c2ee3.png" width="100" height="100">
+
