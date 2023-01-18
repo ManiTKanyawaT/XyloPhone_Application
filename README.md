@@ -2,6 +2,8 @@
 
 - I have made a simple Xylophone Application with Flutter widgets and Dart function.
 
+![Simulator Screen Shot - iPhone 14 Pro Max - 2023-01-18 at 12 09 28](https://user-images.githubusercontent.com/122957164/213089435-abe78392-2c8a-4ab2-b359-bdd4e76f1eb4.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
